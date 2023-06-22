@@ -19,4 +19,7 @@ jump shell fish | source
 # asdf 
 source /usr/local/opt/asdf/libexec/asdf.fish
 
+#starship
+starship init fish | source
 
+set fish_key_bindings fish_user_key_bindings
